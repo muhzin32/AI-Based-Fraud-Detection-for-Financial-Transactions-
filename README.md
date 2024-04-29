@@ -21,6 +21,12 @@ To install the required dependencies, run:
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+```
+https://drive.google.com/file/d/1auVNDNZufMH26ZfUN8zM7pJ6HJeZy50i/view?usp=sharing
+```
+
 ## Usage
 
 1. **Data Preprocessing**: Use `data_preprocessing.py` to clean and preprocess the transactional data.
